@@ -10,7 +10,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
 const LINE =
-  "WARNING: Do not meet your younger self. He will ask for lottery numbers, money, and why you still have that haircut.";
+  "WARNING: Do not meet your younger self. He will ask for lottery numbers, rent money, and why you kept that haircut.";
 
 const MAX_CHARS = 120;
 

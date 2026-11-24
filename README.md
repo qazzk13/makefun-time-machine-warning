@@ -6,7 +6,7 @@
 
 My entry for the funniest time machine warning label thing. One line, printed like it actually came stuck on the machine:
 
-> WARNING: Do not meet your younger self. He will ask for lottery numbers, money, and why you still have that haircut.
+> WARNING: Do not meet your younger self. He will ask for lottery numbers, rent money, and why you kept that haircut.
 
 Honestly the meeting-yourself bit is the part I'd be worried about. Not the paradox stuff, just having to sit there while 19-year-old me asks where the money went. `main.ts` writes the line to `/output/entry.txt`, same every time, nothing clever going on in the code.
 
